@@ -1,0 +1,8 @@
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\bin\Debug\androidhelper.exe.config
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\bin\Debug\androidhelper.exe
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\bin\Debug\androidhelper.pdb
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\obj\Debug\androidhelper.csprojResolveAssemblyReference.cache
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\obj\Debug\androidhelper.MainForm.resources
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\obj\Debug\androidhelper.csproj.GenerateResource.Cache
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\obj\Debug\androidhelper.exe
+C:\Users\anakin\Documents\SharpDevelop Projects\androidhelper\androidhelper\obj\Debug\androidhelper.pdb
